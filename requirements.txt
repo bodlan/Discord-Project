@@ -1,0 +1,9 @@
+requests>=2.28.1
+discord.py>=2.0.1
+fastapi>=0.81.0
+uvicorn==0.18.3
+sqlalchemy==1.4.40
+mysql-connector-python==8.0.30
+sqlalchemy-utils==0.38.3
+
+
